@@ -1,0 +1,9 @@
+telegram:
+  botName: testkotlin1bot
+  token: 6125009726:AAGc1WJyK6YRVsruETNB3WYrpwsxQMJzTPU
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kotlin_template
+    username: postgres
+    password: ahmadali1976
